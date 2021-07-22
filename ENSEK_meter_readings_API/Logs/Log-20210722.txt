@@ -7,3 +7,6 @@
 2021-07-22T16:09:21.2805333+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
 2021-07-22T16:09:21.3007386+01:00  [INF] Hosting environment: "Development" (c3307c92)
 2021-07-22T16:09:21.3033587+01:00  [INF] Content root path: "C:\Users\User\source\repos\ENSEK_meter_readings_API\ENSEK_meter_readings_API" (b5d60022)
+2021-07-22T17:20:34.5696940+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2021-07-22T17:20:34.5811745+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2021-07-22T17:20:34.5814386+01:00  [INF] Content root path: "C:\Users\User\source\repos\ENSEK_meter_readings_API\ENSEK_meter_readings_API" (b5d60022)
