@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ENSEK_meter_readings_API", "ENSEK_meter_readings_API\ENSEK_meter_readings_API.csproj", "{6427AF86-200E-4CE5-9907-D9A2A0ABF058}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6427AF86-200E-4CE5-9907-D9A2A0ABF058}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6427AF86-200E-4CE5-9907-D9A2A0ABF058}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6427AF86-200E-4CE5-9907-D9A2A0ABF058}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6427AF86-200E-4CE5-9907-D9A2A0ABF058}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7B8F2A7-212D-4831-BC1F-11B9648D0CE5}
+	EndGlobalSection
+EndGlobal
